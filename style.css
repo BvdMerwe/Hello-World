@@ -1,0 +1,13 @@
+h1
+{
+    font-family:arial;
+    text-decoration:underline;
+    font-size: 25px;
+}
+
+p
+{
+    font-family:monospace;
+    text-align:center;
+    font-size: 15px;
+}
